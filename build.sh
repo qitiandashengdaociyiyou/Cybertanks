@@ -1,0 +1,1 @@
+npx terser src/src.js -o dist/dist.js -c -m
